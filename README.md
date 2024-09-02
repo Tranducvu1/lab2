@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MiCard
 
 MiCard là một ứng dụng Flutter do Trần Đức Vũ phát triển. Ứng dụng này giúp người dùng quản lý và chia sẻ thông tin cá nhân của mình dễ dàng hơn, với giao diện người dùng đẹp mắt và các tính năng tiện ích.
@@ -16,7 +16,7 @@ MiCard là một ứng dụng Flutter do Trần Đức Vũ phát triển. Ứng 
 
 1. **Clone repository**:
     ```sh
-    git clone https://github.com/yourusername/micard.git
+    git clone https://github.com/Tranducvu1/lab2
     cd micard
     ```
 
@@ -35,6 +35,5 @@ MiCard là một ứng dụng Flutter do Trần Đức Vũ phát triển. Ứng 
 - **Ngôn ngữ lập trình**: Dart
 - **Framework**: Flutter
 - **Editor được khuyến nghị**: Android Studio, VS Code
-=======
-# lab2
->>>>>>> d2ebf4372774dd82d936400ee92f67ba0e3284e9
+
+
